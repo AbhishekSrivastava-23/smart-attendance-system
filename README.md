@@ -1,5 +1,5 @@
 # SMART ATTENDANCE MANAGEMENT SYSTEM USING OPEN CV
-**A smart attendance marking and management system using Face Recognition and OpenCV.**
+**A smart attendance marking and management system using Face Recognition with OpenCV.**
 
 The user can:
 - Test camera function
